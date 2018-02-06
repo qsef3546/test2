@@ -1,3 +1,5 @@
+// For command line git tutorial
+// Git Hub modification
 print("Hello world")
 print("Good afternoon!!")
 print("Check point 1")
